@@ -1,0 +1,19 @@
+{
+  "name": "Calculadora Elétrica Industrial",
+  "short_name": "Calc. Industrial",
+  "description": "Cálculos elétricos industriais com fórmulas e memória de cálculo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071019",
+  "theme_color": "#07131f",
+  "lang": "pt-BR",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
